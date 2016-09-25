@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="Kelly Johnson">
+	<link rel="stylesheet" type="text/css" href="/cs313/css/style.css">
+	<title>cs313 HW</title>
+</head>
+<body>
+	<div class="container">
+		<header>
+			<h1>Home Page<span>About Me</span></h1>
+			<div id="image"> <img src="profile.jpg"></div>
+		</header>
+	</div>
+	<nav class="idrops-demos cl-1">
+	<div class="container">
+	<section>
+	<h3>Hello</h3>
+	<p>My name is Kelly Johnson and am thrilled to be taking Web Engineering II. I still consider myself novice when it comes to building websites and the web development field in general. I am familiar with HTML5 and CSS3 and am actively learning other coding languages.</p>
+	<p>I started back to school just as I got my B.S. in Exercise Physiology. I'm sad it took this long to find my passion but now that I'm here I am not looking back!</p>
+		</section>
+	</div>
+	<footer class="footer-distributed">
+	<div>
+	<p class="footer-links cl-1 idrops-demos">
+	<a href="http://johnsonartistry.com/cs313/assignments.php" title="Assignment Page">Assignemts</a>
+	</p>
+	</div>
+	</footer>
+		</nav>
+	</body>
+</html>
