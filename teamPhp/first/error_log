@@ -1,0 +1,98 @@
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[27-Sep-2016 16:19:27 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[27-Sep-2016 16:19:27 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[27-Sep-2016 16:19:27 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[27-Sep-2016 16:19:27 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[27-Sep-2016 16:19:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[27-Sep-2016 16:19:27 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[27-Sep-2016 16:43:49 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[27-Sep-2016 16:43:49 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[27-Sep-2016 16:43:49 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[27-Sep-2016 16:43:49 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[27-Sep-2016 16:43:49 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[27-Sep-2016 16:43:50 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[27-Sep-2016 16:43:50 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[27-Sep-2016 16:43:50 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[27-Sep-2016 16:43:50 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[27-Sep-2016 16:43:50 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[27-Sep-2016 16:43:50 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[27-Sep-2016 16:55:01 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[27-Sep-2016 16:55:01 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[27-Sep-2016 16:55:01 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[27-Sep-2016 16:55:01 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[27-Sep-2016 16:55:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[27-Sep-2016 16:55:01 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[27-Sep-2016 17:08:27 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[27-Sep-2016 17:08:27 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[27-Sep-2016 17:08:27 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[27-Sep-2016 17:08:27 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[27-Sep-2016 17:08:27 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[27-Sep-2016 17:29:03 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[27-Sep-2016 17:29:03 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[27-Sep-2016 17:29:03 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[27-Sep-2016 17:29:03 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[27-Sep-2016 17:29:03 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[27-Sep-2016 17:29:03 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[28-Sep-2016 07:52:32 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[28-Sep-2016 07:52:32 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[28-Sep-2016 07:52:32 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[28-Sep-2016 07:52:32 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[28-Sep-2016 07:52:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[28-Sep-2016 07:52:32 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[28-Sep-2016 08:10:40 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[28-Sep-2016 08:10:40 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[28-Sep-2016 08:10:40 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[28-Sep-2016 08:10:40 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[28-Sep-2016 08:10:40 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[28-Sep-2016 08:10:40 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 08:53:14 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[29-Sep-2016 08:53:14 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[29-Sep-2016 08:53:14 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[29-Sep-2016 08:53:14 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[29-Sep-2016 08:53:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[29-Sep-2016 08:53:14 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 15:02:56 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 13
+[29-Sep-2016 15:02:56 America/Denver] PHP Notice:  Undefined index: email in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 16
+[29-Sep-2016 15:02:56 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 19
+[29-Sep-2016 15:02:56 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 24
+[29-Sep-2016 15:02:56 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 25
+[29-Sep-2016 15:02:56 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/teamPhp/first/handle.php on line 31
+[02-Oct-2016 19:06:47 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:47 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:47 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:47 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:47 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0

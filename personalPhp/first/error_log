@@ -1,0 +1,832 @@
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[28-Sep-2016 10:57:22 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 17
+[28-Sep-2016 10:57:22 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 22
+[28-Sep-2016 10:57:22 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 23
+[28-Sep-2016 10:57:22 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 29
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[28-Sep-2016 11:40:49 America/Denver] PHP Notice:  Undefined index: major in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 17
+[28-Sep-2016 11:40:49 America/Denver] PHP Notice:  Undefined index: placesVisited in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 22
+[28-Sep-2016 11:40:49 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 23
+[28-Sep-2016 11:40:49 America/Denver] PHP Notice:  Undefined index: comments in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 29
+[29-Sep-2016 09:14:43 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:14:43 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:14:43 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:14:43 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:14:43 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:14:43 America/Denver] PHP Parse error:  syntax error, unexpected '".<br>;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 20
+[29-Sep-2016 09:15:30 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:30 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:30 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:30 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:30 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:30 America/Denver] PHP Parse error:  syntax error, unexpected '".<br>;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 20
+[29-Sep-2016 09:15:40 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:40 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:40 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:40 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:40 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:15:40 America/Denver] PHP Parse error:  syntax error, unexpected '".<br>;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 20
+[29-Sep-2016 09:17:17 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:17 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:17 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:17 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:17 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:17 America/Denver] PHP Parse error:  syntax error, unexpected '".<br>;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 20
+[29-Sep-2016 09:17:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:17:37 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 09:17:37 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:17:37 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 18
+[29-Sep-2016 09:17:37 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 19
+[29-Sep-2016 09:17:37 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 25
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:24:11 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 09:24:11 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:24:11 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 18
+[29-Sep-2016 09:24:11 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 19
+[29-Sep-2016 09:24:11 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 25
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:25:53 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 09:25:53 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:25:53 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 18
+[29-Sep-2016 09:25:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 19
+[29-Sep-2016 09:25:53 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 25
+[29-Sep-2016 09:36:20 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:36:20 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:36:20 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:36:20 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:36:20 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:36:20 America/Denver] PHP Notice:  Undefined index: name in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 09:36:20 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:39:19 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:39:19 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:39:19 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:39:19 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:39:19 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:39:19 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:40:26 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:40:26 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:40:26 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:40:26 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:40:26 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:40:26 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:41:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:13 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:41:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:15 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:41:44 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:44 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:44 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:44 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:44 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:41:44 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:44:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:44:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:44:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:44:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:44:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:44:03 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:45:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:45:09 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:45:09 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:45:09 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:45:09 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:45:10 America/Denver] PHP Parse error:  syntax error, unexpected '".<br>;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 20
+[29-Sep-2016 09:58:53 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:58:53 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:58:53 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:58:53 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:58:53 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:58:54 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 09:59:56 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 09:59:56 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 09:59:56 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 09:59:56 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 09:59:56 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 09:59:56 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:00:01 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:01 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:01 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:01 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:01 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:01 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:00:02 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:02 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:02 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:02 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:02 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:02 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:00:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:03 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:00:04 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:04 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:04 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:04 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:04 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:00:05 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:07:08 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:08 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:08 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:08 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:08 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:08 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 10:07:08 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:07:21 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:21 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:21 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:21 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:21 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:07:21 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:12:57 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:12:57 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:12:57 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:12:57 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:12:57 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:12:57 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:12:57 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 25
+[29-Sep-2016 10:28:16 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:16 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:16 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:16 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:16 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:17 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 10:28:32 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:32 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:32 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:32 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:32 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 10:28:32 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 11:36:24 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[29-Sep-2016 11:36:24 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[29-Sep-2016 11:36:24 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[29-Sep-2016 11:36:24 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[29-Sep-2016 11:36:24 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[29-Sep-2016 11:36:25 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 13
+[29-Sep-2016 11:36:25 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 15
+[29-Sep-2016 11:36:25 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 18
+[29-Sep-2016 11:36:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 19
+[29-Sep-2016 11:36:25 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/handle.php on line 25
+[30-Sep-2016 18:19:11 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:11 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:11 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:11 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:11 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:12 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 13
+[30-Sep-2016 18:19:12 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 18:19:12 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 18
+[30-Sep-2016 18:19:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 19
+[30-Sep-2016 18:19:12 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[30-Sep-2016 18:19:27 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:27 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:27 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:27 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:27 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:19:36 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 18:59:07 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:07 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:07 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:07 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:07 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:07 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 18:59:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:09 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:09 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:09 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:09 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:09 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 18:59:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 18:59:23 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:01:04 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:01:04 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:01:04 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:01:04 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:01:04 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:01:04 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:05:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:23 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:05:28 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:28 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:28 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:28 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:28 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:28 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:05:47 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:47 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:47 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:47 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:47 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:05:47 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:06:04 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:06:04 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:06:04 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:06:04 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:06:04 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:06:04 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 15
+[30-Sep-2016 19:22:33 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:33 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:33 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:33 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:33 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:49 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:49 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:49 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:49 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:22:49 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:48 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:48 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:48 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:48 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:48 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[30-Sep-2016 19:26:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:48 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:48 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:48 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:48 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:48 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 09:06:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 17
+[01-Oct-2016 19:31:21 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:21 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:21 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:21 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:21 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:39 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:39 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:39 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:39 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:31:39 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:06 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:06 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:06 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:06 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:06 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:14 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:14 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:14 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:14 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:41:14 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:42:37 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:42:37 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:42:37 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:42:37 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:42:37 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 19:44:31 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home1/johnspf5/public_html/cs313/personalPhp/first/results.php on line 17
+[01-Oct-2016 20:27:16 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:27:16 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:27:16 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:27:16 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:27:16 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:12 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 19
+[01-Oct-2016 20:29:12 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 20:29:12 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 20:29:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:29:12 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 31
+[01-Oct-2016 20:29:20 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:20 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:20 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:20 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:20 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:29:20 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:31:32 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 19
+[01-Oct-2016 20:31:32 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 20:31:32 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 20:31:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:31:32 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 31
+[01-Oct-2016 20:32:14 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:32:14 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:32:14 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:32:14 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:32:14 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:32:14 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 20:32:14 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 23
+[01-Oct-2016 20:32:14 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 20:38:38 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:38 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:38 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:38 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:38 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:39 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:38:39 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:38:39 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:38:39 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:38:39 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:38:41 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:41 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:41 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:41 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:41 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:42 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:42 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:42 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:42 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:42 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:38:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:05 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:05 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:05 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:05 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:05 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:14 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:14 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:14 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:14 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:14 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:34 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:40:34 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:40:34 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:40:40 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:40 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:40 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:40 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:40 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:48 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:48 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:48 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:48 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:40:48 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:22 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:22 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:22 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:22 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:22 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:29 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:29 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:29 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:29 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:29 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:41 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:41 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:41 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:41 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:41 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:48 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:48 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:48 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:48 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:48 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:41:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:42:57 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:42:57 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:42:57 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:42:57 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:42:57 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:32 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:32 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:32 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:32 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:32 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:41 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:41 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:41 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:41 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:44:41 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:36 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:45:36 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:45:36 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:45:36 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:45:36 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:41 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:45:41 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:45:41 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:45:41 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:45:41 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:45:54 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:54 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:54 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:54 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:45:54 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:46:12 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:46:12 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:46:12 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:46:12 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:46:12 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:35 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:47:35 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:47:35 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:47:35 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:47:35 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:47:43 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:47:43 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:47:43 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:47:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:47:43 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 37
+[01-Oct-2016 20:53:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:43 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:43 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:43 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:43 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:43 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:53:58 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:53:58 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:53:58 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:53:58 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 47
+[01-Oct-2016 20:53:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 48
+[01-Oct-2016 20:53:58 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 55
+[01-Oct-2016 20:55:44 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:55:44 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:55:44 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:55:44 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:55:44 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:01 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:01 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:01 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:01 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:01 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:11 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:11 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:11 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:11 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:11 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 20:56:12 America/Denver] PHP Notice:  Undefined index: election in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 20:56:12 America/Denver] PHP Notice:  Undefined index: car in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 20:56:12 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 29
+[01-Oct-2016 20:56:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 30
+[01-Oct-2016 20:56:12 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 47
+[01-Oct-2016 20:56:12 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 48
+[01-Oct-2016 20:56:12 America/Denver] PHP Notice:  Undefined index: movies in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 55
+[01-Oct-2016 21:01:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:24 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:24 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:24 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:24 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:24 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:42 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:42 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:42 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:42 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:42 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:01:43 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:01:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:23 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:02:23 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:26 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:02:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:02:30 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:30 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:30 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:30 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:30 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:37 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:37 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:37 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:37 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:37 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:44 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:02:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:02:57 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:02:57 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:00 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 33
+[01-Oct-2016 21:03:00 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 34
+[01-Oct-2016 21:03:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:10 America/Denver] PHP Fatal error:  Call to undefined function gt_form_request() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:03:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:23 America/Denver] PHP Fatal error:  Call to undefined function gt_form_request() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:03:45 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:45 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:45 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:45 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:45 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:03:52 America/Denver] PHP Fatal error:  Call to undefined function gt_form_request() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 23
+[01-Oct-2016 21:04:28 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:28 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:28 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:28 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:28 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:31 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:31 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:31 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:31 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:31 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:37 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:37 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:37 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:37 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:37 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:04:45 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:04:45 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:06:44 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:06:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 21:07:37 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:37 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:37 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:37 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:37 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:38 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:07:38 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:40 America/Denver] PHP Notice:  Undefined index: chip in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 24
+[01-Oct-2016 21:07:40 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 25
+[01-Oct-2016 21:07:43 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:43 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:43 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:43 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:43 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:49 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:49 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:49 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:49 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:07:49 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:00 America/Denver] PHP Notice:  Array to string conversion in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 21:09:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:09 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:09 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:09 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:09 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:15 America/Denver] PHP Notice:  Array to string conversion in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 21
+[01-Oct-2016 21:09:56 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:56 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:56 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:56 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:09:56 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:02 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:02 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:02 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:02 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:02 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:09 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:09 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:09 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:10:09 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:16 America/Denver] PHP Notice:  Array to string conversion in /home1/johnspf5/public_html/cs313/personalPhp/first/surveyResults.php on line 22
+[01-Oct-2016 21:12:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:31 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:31 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:31 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:31 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:31 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:39 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:39 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:39 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:39 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:12:39 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:00 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:00 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:00 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:00 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:00 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:17 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:17 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:17 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:17 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:14:17 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 21:45:55 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 21:45:55 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 21:45:55 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 21:45:55 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 21:45:55 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:29 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:29 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:29 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:29 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:29 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:34 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:34 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:34 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:34 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:34 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:42 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:42 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:42 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:42 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:42 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:50 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:50 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:50 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:50 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[01-Oct-2016 22:14:50 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:58 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:58 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:58 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:58 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:06:58 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[02-Oct-2016 19:08:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:08:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:08:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:08:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:08:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[02-Oct-2016 19:09:24 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:09:24 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:09:24 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:09:24 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:09:24 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[02-Oct-2016 19:14:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:14:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:14:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:14:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:14:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[02-Oct-2016 19:44:16 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[02-Oct-2016 19:44:16 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[02-Oct-2016 19:44:16 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[02-Oct-2016 19:44:16 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[02-Oct-2016 19:44:16 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[03-Oct-2016 08:20:09 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[03-Oct-2016 08:20:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[03-Oct-2016 08:20:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[03-Oct-2016 08:20:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[03-Oct-2016 08:20:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
